@@ -18,12 +18,12 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "*Ozzi | Bot*" //namabot kalian
-global.ownername= "OJI MIKU?" //nama kalian
-global.myweb ="https://instagram.com/alah.tabuak" //bebas asal jan hapus
+global.botname = "Fauzii | Wibu" //namabot kalian
+global.ownername= "OJI WIBU?" //nama kalian
+global.myweb ="https://instagram.com/Yudis.tra1" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UC7bugAZ8aAzoqnVJOiFfNGQ" //bebas asal jan hapus
-global.github = "https://github.com/OJIGIT" //bebas
-global.email = "telahdigunakan889@gmail.com" //bebas
+global.github = "https://github.com/galogandang1" //bebas
+global.email = "telahdigunakan889@gmai2" //bebas
 global.region = "Indonesian" //bebas
 global.ownernomer = "6282122375139" // nomor wa kalian
 global.ownernomerr = "+6282122375139" //nmr wa kalian
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://yt3.ggpht.com/ytc/AKedOLQcA4DeMf-MEN0z4AenjEshsL2wHFsQVcKYIW3B=s176-c-k-c0x00ffffff-no-rj" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282122375139","6283111152208","6281370040608"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© OJI Senpai Dakara' //sticker wm ubah
-global.author = '*Created OJI Senpai*' //sticker wm ganti nama kalian
+global.packname = '© Oji Senpai Dakara' //sticker wm ubah
+global.author = 'Yuu | Senpai' //sticker wm ganti nama kalian
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
